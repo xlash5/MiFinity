@@ -18,10 +18,10 @@ flutter run
 ## Screenshots
 
 <!-- add image url from git repository-->
-Solarized dark             |  Solarized Ocean
+Screen 1             |  Screen 2
 :-------------------------:|:-------------------------:
-<img src="https://raw.githubusercontent.com/xlash5/MiFinity/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-28%20at%2018.43.43.png" width="200">  |  <img src="https://raw.githubusercontent.com/xlash5/MiFinity/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-28%20at%2018.43.57.png" width="200">
+<img src="https://raw.githubusercontent.com/xlash5/MiFinity/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-28%20at%2018.43.43.png" width="250">  |  <img src="https://raw.githubusercontent.com/xlash5/MiFinity/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-28%20at%2018.43.57.png" width="250">
 
-Solarized dark             |  Solarized Ocean
+Screen 3             |  Screen 4
 :-------------------------:|:-------------------------:
-<img src="https://raw.githubusercontent.com/xlash5/MiFinity/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-28%20at%2018.44.22.png" width="200"> |  <img src="https://raw.githubusercontent.com/xlash5/MiFinity/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-28%20at%2018.44.29.png" width="200">
+<img src="https://raw.githubusercontent.com/xlash5/MiFinity/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-28%20at%2018.44.22.png" width="250"> |  <img src="https://raw.githubusercontent.com/xlash5/MiFinity/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-28%20at%2018.44.29.png" width="250">
