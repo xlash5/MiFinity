@@ -1,16 +1,19 @@
 # mi_finity
 
-A new Flutter project.
+## Description
+This is a repository for MiFinity assignment.
+Used Flutter version: 3.3.0-0.5.pre
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Usage
 
-A few resources to get you started if this is your first Flutter project:
+You can clone this repository and run the application by running the following command:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+git clone
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
