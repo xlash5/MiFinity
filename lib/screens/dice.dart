@@ -76,7 +76,7 @@ class _DiceState extends State<Dice> with TickerProviderStateMixin {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Counter')),
+      appBar: AppBar(title: const Text('Dice')),
       body: BlocBuilder<DiceCubit, List>(
         builder: (context, state) {
           return ListView(
